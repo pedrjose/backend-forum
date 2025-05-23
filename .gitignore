@@ -1,0 +1,12 @@
+# .gitignore
+# Build e dependências
+target/
+*.jar
+*.class
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Arquivos de configuração local (ex: propriedades sensíveis)
+application.properties
